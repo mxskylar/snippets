@@ -11,6 +11,6 @@ Searches the Handspeak ASL dictionary with the following JavaScript snippets:
 - [handspeak-search-sign.js](handspeak-search-sign.js)
 
 ## Crop YouTube Subtitles
-Crops out Youtube subtitles with [this JavaScript snippet](crop-youtube-subtitles.js)
+Crops out subtitles embedded within a YouTube video using [this JavaScript snippet](crop-youtube-subtitles.js)
 and [this webpage](./cropped-subtitles-youtube-viewer.html),
 which takes the YouTube video ID as input in the `v` parameter.
